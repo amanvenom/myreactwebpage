@@ -1,0 +1,59 @@
+.container1{   
+    
+    background-image: url('https://images6.alphacoders.com/559/thumb-1920-559873.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:  87vh;
+    min-width: 100%;
+    opacity: 0.9;    
+}
+
+.profile{
+    text-align: center;
+    padding-top: 20px; 
+    text-decoration: none;
+    color: rgba(108, 199, 184, 0.801);
+    font-size: xx-large;
+}
+
+.name{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(120, 233, 144);
+   
+}
+.name:hover{
+    color:rgb(235, 174, 82);
+}
+.imag{
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;     
+}
+.heading3{
+    color: rgb(9, 211, 201);
+    font-size: x-large;
+}
+
+.oneline{
+    color:azure;
+    text-align: center;
+    font-size: larger;
+}
+/* .allicons{
+    float: left;
+    margin-left: 40%;
+} */
+.cent1{
+    margin-left: 41%;   
+    float: left;
+    text-decoration: none;
+}
+.cent2{
+    margin-left: 4%;
+    float: left;
+    text-decoration: none;
+}

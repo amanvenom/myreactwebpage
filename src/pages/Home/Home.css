@@ -1,0 +1,64 @@
+.container{   
+    
+    background-image: url('https://wallpaperaccess.com/full/4987704.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:  124vh;
+    min-width: 100%;
+    opacity: 0.8;    
+}
+.imag{
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;     
+}
+.profile{
+    text-align: center;
+    padding-top: 20px; 
+    text-decoration: none;
+    color: rgba(108, 199, 184, 0.801);
+    font-size: xx-large;
+}
+.name{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(120, 233, 144);
+   
+}
+.name:hover{
+    color:rgb(235, 174, 82);
+}
+/* .content{
+   margin : 5%;
+} */
+.imag1{
+    border-radius: 50%;    
+}
+.forleft{
+    margin: 15px;
+    float: left;
+}
+.hline{
+    color:rgba(160, 4, 4, 0.801);
+    height: 20px;
+    
+}
+.place{
+    padding: 20px;
+     color:rgb(252, 249, 249);
+     font-weight: bold;
+    text-align: justify;
+    font-size: 17px;
+    font-family: cursive;
+}
+.heading3{
+    color: rgb(9, 211, 201);
+    font-size: x-large;
+}
+.heading3:hover{
+    text-decoration: none;
+    color: rgb(253, 216, 7);
+}
