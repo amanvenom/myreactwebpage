@@ -7,9 +7,9 @@ const About = () => {
     <div className="container2">
         
           
-        <Link className="heading3" to={{ pathname: "https://github.com/amanvenom" }} target="_blank">
+        <Link className="heading3" to={{ pathname: "https://github.com/amanvenom?tab=repositories" }} target="_blank">
          <div className="profile">       
-         <img src="./images/logo.jpg" className="imag" alt=""/> 
+         <img src="https://avatars.githubusercontent.com/u/79087445?v=4" className="imag" alt=""/> 
          <h4 className="name">Aman Kumar</h4>         
          </div>
          </Link> 
